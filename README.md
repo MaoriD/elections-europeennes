@@ -14,5 +14,5 @@ Pour développer notre site, nous avons fait au plus simple : utilisé le HTML l
 
 ## Restitution
 
-- [Présentation](https://docs.google.com/presentation/d/1T2myhG1MaFxzJ8dDQ5pmVshu403FjgJ-ZSIPKIfhw8Y/edit#slide=id.p)
+- [Présentation](https://docs.google.com/presentation/d/1T2myhG1MaFxzJ8dDQ5pmVshu403FjgJ-ZSIPKIfhw8Y/edit?usp=sharing)
 - [Site en ligne](http://europeennes.maorid.com/)
