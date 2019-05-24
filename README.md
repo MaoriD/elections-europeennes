@@ -2,7 +2,7 @@
 Création d'un site one-page sur mobile pour inciter les jeunes à voter.
 
 ## Introduction
-Pour développer notre site, nous avons fait au plus simple : utiliser le HTML le CSS et le Javascript. Nous avons essayé de faire un code optimisé, en appliquant les bonnes pratiques de développement et en créant une structure compréhensive, réutilisable et SEO friendly (h1, h2..). Le Javascript a servit à envoyer les données du formulaire dans la base de données.
+Pour développer notre site, nous avons fait au plus simple : utiliser le HTML le CSS et le Javascript. Nous avons essayé de faire un code optimisé, en appliquant les bonnes pratiques de développement et en créant une structure compréhensive, réutilisable et SEO friendly (h1, h2..). Le Javascript a servit à envoyer les données du formulaire dans la base de données. Une fois validées, elles s'affichent dans la console avec pour auteur "groupe4".
 
 
 ## Equipe (groupe 4)
