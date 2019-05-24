@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px" class=""><g><polygon style="fill:#F2F2F2;" points="316.495,0 364.79,111.688 268.598,153.278 181.832,153.278 147.21,73.184 " data-original="#F2F2F2" class=""/><g>
+	
+		<rect x="257.579" y="19.277" transform="matrix(-0.3968 -0.9179 0.9179 -0.3968 312.4792 334.4095)" style="fill:#666666;" width="17.078" height="90.511" data-original="#666666" class=""/>
+	
+		<rect x="273.932" y="57.114" transform="matrix(-0.3968 -0.9179 0.9179 -0.3968 300.5903 402.2721)" style="fill:#666666;" width="17.078" height="90.511" data-original="#666666" class=""/>
+	<circle style="fill:#666666;" cx="196.382" cy="94.69" r="8.539" data-original="#666666" class=""/>
+	<circle style="fill:#666666;" cx="212.731" cy="132.523" r="8.539" data-original="#666666" class=""/>
+</g><path style="fill:#3B33FA" d="M113.111,201.061v302.4h285.778v-302.4H113.111z M256.006,420.942  c-37.935,0-68.686-30.751-68.686-68.686s30.751-68.675,68.686-68.675c37.924,0,68.675,30.74,68.675,68.675  S293.93,420.942,256.006,420.942z" data-original="#4780D1" class="" data-old_color="#4780D1"/><rect x="113.111" y="183.983" style="fill:#3B33FA" width="285.778" height="44.402" data-original="#4079BF" class="" data-old_color="#4079BF"/><path style="fill:#FFFF5A" d="M256.006,283.58c37.924,0,68.675,30.74,68.675,68.675s-30.751,68.686-68.675,68.686  c-37.935,0-68.686-30.751-68.686-68.686S218.07,283.58,256.006,283.58z" data-original="#F73C3C" class="" data-old_color="#3B33FA"/><g>
+	<rect x="231.289" y="313.284" style="fill:#3B33FA" width="49.423" height="13.662" data-original="#FFFFFF" class="active-path" data-old_color="#FFFF5A"/>
+	<rect x="213.198" y="345.424" style="fill:#3B33FA" width="85.605" height="13.662" data-original="#FFFFFF" class="active-path" data-old_color="#FFFF5A"/>
+</g><rect x="83.521" y="494.922" style="fill:#3B33FA" width="344.958" height="17.078" data-original="#3570AA" class="" data-old_color="#3570AA"/><polygon style="fill:#FFFF5A" points="423.253,152.139 423.253,201.061 398.889,201.061 113.111,201.061 88.758,201.061   88.758,152.139 181.832,152.139 268.598,152.139 " data-original="#F73C3C" class="" data-old_color="#3B33FA"/></g> </svg>
