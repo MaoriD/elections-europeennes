@@ -7,7 +7,6 @@ Pour développer notre site, nous avons fait au plus simple : utilisé le HTML l
 
 ## Equipe (groupe 4)
 
-- Julien Noyer <https://bit.ly/2MdYM0Z>
 - [Maori DECHAINE](https://www.linkedin.com/in/maori-dechaine/)
 - [Clara Fernandez](https://www.linkedin.com/in/clara-fernandez-niebla-121188141/)
 - [Loïc-Olivier TONY LIBYH](https://www.linkedin.com/in/lo%C3%AFc-olivier-tl/)
