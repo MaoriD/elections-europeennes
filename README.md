@@ -8,8 +8,8 @@ Pour développer notre site, nous avons fait au plus simple : utiliser le HTML l
 ## Equipe (groupe 4)
 
 - [Maori DECHAINE](https://www.linkedin.com/in/maori-dechaine/)
-- [Clara Fernandez](https://www.linkedin.com/in/clara-fernandez-niebla-121188141/)
-- [Loïc-Olivier TONY LIBYH](https://www.linkedin.com/in/lo%C3%AFc-olivier-tl/)
+- [Clara FERNANDEZ NIEBLA](https://www.linkedin.com/in/clara-fernandez-niebla-121188141/)
+- [Loïc-Olivier TONYE LIBYH](https://www.linkedin.com/in/lo%C3%AFc-olivier-tl/)
 - [Ron KOPELMAN](https://www.linkedin.com/in/ron-kopelman-ab28254b/)
 
 ## Restitution
