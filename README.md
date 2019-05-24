@@ -1,4 +1,4 @@
-# Elections européennes
+# Élections européennes
 Création d'un site one-page sur mobile pour inciter les jeunes à voter.
 
 ## Introduction
