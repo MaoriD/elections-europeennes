@@ -280,7 +280,7 @@ ul li {
     right: 0rem;
 }
 
-.qui-voter article:first-child {
+.qui-voter>div:first-child {
     background: url('../img/pour-qui-voter.svg') no-repeat;
     background-size: 2.5rem;
     background-position: top right;
@@ -330,7 +330,6 @@ ul li {
     color: var(--bleu);
 }
 
-
 .btn span:hover {
     transform: translateX(0.8rem) translateY(0.8em);
     -webkit-transform: translateX(0.8rem) translateY(0.8em);
@@ -338,7 +337,6 @@ ul li {
     -ms-transform: translateX(0.8rem) translateY(0.8em);
     -o-transform: translateX(0.8rem) translateY(0.8em);
 }
-
 
 .lois-cools {
     margin-top: 0;
@@ -352,7 +350,6 @@ ul li {
     right: 0;
     bottom: 0;
 }
-
 
 .icons {
     padding-top: 1rem;
@@ -388,7 +385,6 @@ ul li {
     width: 11.5rem;
     bottom: 0;
     left: 0;
-    z-index: -1;
 }
 
 .balance {
@@ -601,13 +597,12 @@ input[type="checkbox"]:checked {
     padding-bottom: 6rem;
 }
 
-.form-team article {
+.form-team > div {
     padding: 7rem 0 0;
     background: url(../img/deco1.png) no-repeat;
     background-position: top 3rem left 3rem;
     background-size: 3rem;
 }
-
 
 footer {
     background-color: var(--bleu);
@@ -616,13 +611,6 @@ footer {
     font-family: var(--quicksand);
     padding: 0.5rem 0;
 }
-
-
-
-
-
-
-
 
 @media screen and (max-width: 767px) {
 
